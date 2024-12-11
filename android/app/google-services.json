@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179182514244",
+    "project_id": "ai-serenity",
+    "storage_bucket": "ai-serenity.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179182514244:android:97c8f905b997ab7188cc11",
+        "android_client_info": {
+          "package_name": "com.example.aiserenity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlbV6rdHCe7mv547MFWiyDymVrzgjYPzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
